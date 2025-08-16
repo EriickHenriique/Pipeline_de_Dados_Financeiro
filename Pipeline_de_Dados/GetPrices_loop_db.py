@@ -37,3 +37,5 @@ if __name__ == "__main__":
 
         # Espera próximo ciclo
         time.sleep(SLEEP_SECONDS)
+
+    
