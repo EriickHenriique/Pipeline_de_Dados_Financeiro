@@ -19,10 +19,10 @@ def get_bitcoin_df():
 
     # Criação do DataFrame
     df = pd.DataFrame([{
-        'horário': time,
-        'ativo': asset,
-        'preço': price,
-        'moeda': currency
+        'Horário': time,
+        'Ativo': asset,
+        'Preço': price,
+        'Moeda': currency
     }])
 
     return df
